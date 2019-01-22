@@ -10,3 +10,8 @@ services:
     build: ./server/companies
     ports:
       - "3001:3000"
+
+  events-server:
+    build: ./server/events
+    ports:
+      - "3002:3000"

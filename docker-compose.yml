@@ -1,0 +1,12 @@
+version: "3"
+services:
+
+  client:
+    build: ./client
+    ports:
+      - "8081:80"
+
+  companies-server:
+    build: ./server/companies
+    ports:
+      - "3001:3000"

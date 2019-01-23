@@ -39,7 +39,7 @@ Hosted on GitHub Pages at TODO: [Swagger](https://swagger.io/docs/)? http://apid
     - Xcode Developer Tools (Mac)
        - `xcode-select --install`
     - Yarn [install](https://yarnpkg.com/en/docs/install)
-    - Optional: Postgres [install](https://www.postgresql.org/)
+    - Optional: Postgres [install](https://postgresapp.com/downloads.html)
  - Stack Dependencies
     - Docker [install](https://docs.docker.com/engine/installation/) and run daemon
       - Should include [Docker-Compose](https://docs.docker.com/compose/install/) in install
